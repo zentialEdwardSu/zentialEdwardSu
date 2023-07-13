@@ -11,16 +11,12 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
 - 🌱 I’m currently learning
     - **Rust** currently my favorite lang 
         (though it's always tough fighting with the compiler)
-    - **Typescript** I like type **(=・ω・=)**
-    - **React & WindiCSS** 
-    - **tauri & electron** My solution for cross-platfrom application **(￣▽￣)**
+    - **Go** just for lab :P
     - **CV** but just a little XD
 - 🔭 I’m currently working on:
-    - [ ] A toml parser [Rust]
-    - [ ] A markdown parser using AST [Rust]
-    - [ ] A shabby CLI request tool [Rust]
+    - [ ] MIT 6.5840 distrbuted system lab [Go]
     - [ ] Action recognition based on skeleton data using CNN [python]
-- 📫 How to reach me:  📨
+- 📫 How to reach me:  [📨 ](edsu.travailleur@gmail.com)
 - ⚡ Fun fact: 
     - I am good at producing **BUG** which I can't easily find or fix **\_(:з」∠)_**
     - My project are processed in ayncmodel, once it's blocked, it will be hang and waiting for next poll
