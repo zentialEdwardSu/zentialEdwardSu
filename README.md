@@ -15,7 +15,7 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
 - 🔭 I’m currently working on:
     - [👷workingOn] MIT 6.5840 distrbuted system lab ʕ◔ϖ◔ʔ
     - [👷workingOn] Action recognition based on skeleton data using CNN 🐍
-- 📫 feel free reach me:  [📨 ](edsu.travailleur@gmail.com)
+- 📫 feel free reach me:  <a herf="edsu.travailleur@gmail.com">📨</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
 <!-- <div align="center">
