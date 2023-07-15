@@ -18,7 +18,7 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
 - 📫 feel free reach me:  [📨 ](edsu.travailleur@gmail.com)
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
-<! --<div align="center">
+<!-- <div align="center">
     <img style="border-radius: 0.3125em;
         max-height:30%;
         max-width:30%;
