@@ -14,7 +14,7 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
     - **DeepLearning CV algorithm** 
 - 🔭 I’m currently working on:
     - [👷workingOn] MIT 6.5840 distrbuted system lab ʕ◔ϖ◔ʔ
-    - [👷workingOn] Action recognition based on skeleton data using CNN 🐍
+    - [👷workingOn] Skeleton-based Action Recognition with CNN backbone 🐍
 - 📫 feel free reach me:  <a href="edsu.travailleur@gmail.com">📨 edsu.travailleur@gmail.com</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
