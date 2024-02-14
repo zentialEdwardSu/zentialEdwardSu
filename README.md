@@ -9,13 +9,13 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
 </div> -->
 
 - 🌱 I’m currently learning
-    - **Rust** 
+    - **Rust**
+    - **Erlang**
     - **Go** for lab :P
-    - **DeepLearning CV algorithm** 
 - 🔭 I’m currently working on:
     - [👷workingOn] MIT 6.5840 distrbuted system lab ʕ◔ϖ◔ʔ
     - [👷workingOn] Skeleton-based Action Recognition with CNN backbone 🐍
-- 📫 feel free reach me:  <a href="edsu.travailleur@gmail.com">📨 edsu.travailleur@gmail.com</a>
+- 📫 e-mail:  <a href="edsu.travailleur@gmail.com">📨 edsu.travailleur@gmail.com</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
 <!-- <div align="center">
