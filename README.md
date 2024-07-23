@@ -8,14 +8,15 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&pause=1000&color=000000&width=435&height=35&lines=Carry+out+some+interesting+project;Wether+it's+useless+or+not" alt="Typing SVG" />
 </div> -->
 
-- 🌱 I’m currently learning
-    - **Rust**
-    - **Erlang**
-    - **Go** for lab :P
-- 🔭 I’m currently working on:
-    - [👷workingOn] MIT 6.5840 distrbuted system lab ʕ◔ϖ◔ʔ
-    - [👷workingOn] Skeleton-based Action Recognition with CNN backbone 🐍
-- 📫 e-mail:  <a href="edsu.travailleur@gmail.com">📨 hi@edwardsu.me</a>
+** ProjectStatus**
+
+| WorkingOn | Pending | Canceled |
+|:-:|:-:|:-:|
+|luar|hugo-theme-piatto|unamed_Edge_ACTR_MODEL_24|
+|luargc|go_libjpeg||
+||saint.Board||
+
+- 📫 e-mail:  <a href="hi@edwardsu.me">📨 hi@edwardsu.me</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
 
 <!-- <div align="center">
