@@ -8,13 +8,17 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&pause=1000&color=000000&width=435&height=35&lines=Carry+out+some+interesting+project;Wether+it's+useless+or+not" alt="Typing SVG" />
 </div> -->
 
-** ProjectStatus**
+### ProjectStatus
 
 | WorkingOn | Pending | Canceled |
 |:-:|:-:|:-:|
 |luar|hugo-theme-piatto|unamed_Edge_ACTR_MODEL_24|
 |luargc|go_libjpeg||
-||saint.Board||
+|saint.PaperGraph|saint.Board||
+
+> Go to [Development-memo](https://github.com/zentialEdwardSu/Development-memo) for details:D
+
+### OtherInfo
 
 - 📫 e-mail:  <a href="hi@edwardsu.me">📨 hi@edwardsu.me</a>
 - ⚡ Fun fact:  I'm obsessed with writing bugs I can't fix
