@@ -10,11 +10,11 @@ It's EdwardSu here， I'm a undergrad major in **IOT** Engineering
 
 ### ProjectStatus
 
-| WorkingOn | Pending | Canceled |
-|:-:|:-:|:-:|
-|luar|hugo-theme-piatto|unamed_Edge_ACTR_MODEL_24|
-|luargc|go_libjpeg||
-|saint.PaperGraph|saint.Board||
+| WorkingOn | Pending |
+|:-:|:-:|
+|hugo-theme-piatto|luar|
+|luargc|go_libjpeg|
+|Board.ava|saint.PaperGraph|
 
 > Go to [Development-memo](https://github.com/zentialEdwardSu/Development-memo) for details:D
 
